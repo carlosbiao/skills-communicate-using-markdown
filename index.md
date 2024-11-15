@@ -17,7 +17,7 @@ from here nothing changes
 ```
 
 ### add a task list
-#### note its syntax
+#### note its syntax - [ ]
 
 - [x] Turn on GitHub Pages
 - [ ] Outline my portfolio
